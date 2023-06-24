@@ -1,1 +1,1 @@
-ASP.Net With Vite's React, all in one app!
+ASP.net backend serving up a Typescript React app
